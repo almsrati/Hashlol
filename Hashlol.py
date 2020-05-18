@@ -10,7 +10,7 @@
 from lib.almsrati import *
 
 
-En = Encryption()
+En = almsrati()
 
 while True:
 
