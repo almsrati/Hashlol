@@ -2,7 +2,7 @@ import os
 from hashlib import *
 
 
-class Encryption:
+class almsrait:
     def __init__(self):
         if os.name == "nt":
             os.system("cls")
