@@ -1,5 +1,5 @@
 # Hashlol
-Encryption Type:
+**Encryption Type:**
 
 . MD5
 . SHA1
