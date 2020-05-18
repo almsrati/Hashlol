@@ -1,5 +1,5 @@
 # Script : Hashlol
-**Encryption Type:**
+**Hashing Type:**
 
 ```
 > MD5
