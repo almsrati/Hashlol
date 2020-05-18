@@ -25,7 +25,7 @@ class almsrait:
              ▀                                             ███    ███
         \033[0m""")
         print(BANNER)
-        print("\033[1;32m######## [ Encryption Type ] ######## \033[0m")
+        print("\033[1;32m######## [ Hashing Type ] ######## \033[0m")
         Fuck = ("""\033[1;33m
   1. MD5
   2. SHA1
