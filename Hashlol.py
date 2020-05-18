@@ -7,7 +7,7 @@
 #________________________
 
 
-from lib.Encryption import *
+from lib.almsrati import *
 
 
 En = Encryption()
