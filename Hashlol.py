@@ -14,7 +14,7 @@ En = almsrati()
 
 while True:
 
-    choices = input("\033[1;36m  > Enter The Encryption Number Here : \033[0m")
+    choices = input("\033[1;36m  > Enter The Hashing Number Here : \033[0m")
 
  
     try:
