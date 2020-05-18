@@ -22,5 +22,5 @@ Facebook : [r00tly](https://www.facebook.com/r00tly)
 
 **_ScreenShot From Script :_**
 
-![](screenshot/preview.PNG)
+
 
