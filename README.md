@@ -19,6 +19,8 @@ ______________________________________
 **_It works on Python3 only, I used 3.7.4_**
 ______________________________________
 Facebook : [r00tly](https://www.facebook.com/r00tly)
+
 **_ScreenShot From Script :_**
+
 ![](screenshot/preview.PNG)
 
