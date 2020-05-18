@@ -10,7 +10,7 @@
 from lib.almsrati import *
 
 
-En = almsrati()
+En = Almsrati()
 
 while True:
 
