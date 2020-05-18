@@ -16,7 +16,7 @@
 > Blake2s
 ```
 ______________________________________
-It works on Python3 only, I used 3.7.4
+**_It works on Python3 only, I used 3.7.4_**
 ______________________________________
 
 ![](screenshot/preview.PNG)
