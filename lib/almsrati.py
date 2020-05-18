@@ -2,7 +2,7 @@ import os
 from hashlib import *
 
 
-class almsrait:
+class Almsrati:
     def __init__(self):
         if os.name == "nt":
             os.system("cls")
