@@ -1,6 +1,7 @@
 # Hashlol
 **Encryption Type:**
 
+```
 > MD5
 > SHA1
 > SHA224
@@ -13,6 +14,7 @@
 > SHA3_384
 > Blake2b
 > Blake2s
+```
 ______________________________________
 It works on Python3 only, I used 3.7.4
 ______________________________________
